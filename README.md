@@ -71,7 +71,9 @@ The Global Level Feature Alignment (GLFA) module is proposed to exploit coarse b
 
 Here, we present the qualitative results of BiCross in three scenarios: Synthetic to Real, Extreme Weathers and Scene Changes.
 
-![Qualitative Result](visualization/qualitative.png)
+![Qualitative Result (Paper)](visualization/visualization_paper.png)
+
+![Qualitative Result (Appendix)](visualization/visualization_appendix.png)
 
 ## Demo
 
